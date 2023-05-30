@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hostelbooking/static/css/main.4d322ff9.css",
+    "main.js": "/hostelbooking/static/js/main.fb0f8c5b.js",
+    "index.html": "/hostelbooking/index.html",
+    "main.4d322ff9.css.map": "/hostelbooking/static/css/main.4d322ff9.css.map",
+    "main.fb0f8c5b.js.map": "/hostelbooking/static/js/main.fb0f8c5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d322ff9.css",
+    "static/js/main.fb0f8c5b.js"
+  ]
+}
